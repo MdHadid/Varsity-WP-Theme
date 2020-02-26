@@ -1,0 +1,1 @@
+It is educational WordPress theme.
